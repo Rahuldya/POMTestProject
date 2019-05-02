@@ -13,6 +13,7 @@ public class A7 implements Printable,Showable
 		obj.show(); 
 		//djhdjdj
 		p.show(); 
+		//dddd
 		s.show(); 
 
 	}
