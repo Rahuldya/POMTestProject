@@ -11,6 +11,8 @@ public class A7 implements Printable,Showable
 		Showable s=new A7();
 		 //sjkskjs
 		obj.show(); 
+		
+		
 		//djhdjdj
 		p.show(); 
 		//dddd
