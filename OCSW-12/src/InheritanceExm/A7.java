@@ -9,11 +9,9 @@ public class A7 implements Printable,Showable
 		A7 obj = new A7();  
 		Printable p=new A7();
 		Showable s=new A7();
-		  //gggghh
-		//hhgg
-		//ggfggffg
-		//jhsdjhsj
+		 //sjkskjs
 		obj.show(); 
+		//djhdjdj
 		p.show(); 
 		s.show(); 
 
