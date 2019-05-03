@@ -11,9 +11,9 @@ public class LoopClass {
 		{
 			System.out.println(s[i]);
 		}
-		//comment at line 14
 		
-////comment at line 16
+		
+
 	}
 
 }
