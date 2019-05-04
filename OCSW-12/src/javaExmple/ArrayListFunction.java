@@ -7,6 +7,8 @@ public class ArrayListFunction {
 
 	public static void main(String[] args) {
     ArrayList<String> l1 =new <String>ArrayList();
+    
+    //ArrayList func()
 		
 		System.out.println(l1.isEmpty());
 		
